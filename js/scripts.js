@@ -573,7 +573,7 @@ $(function () {
 */
 
 function initMap() {
-	var myLatlng = new google.maps.LatLng(35.787743,-78.644257); // <- Your latitude and longitude
+	var myLatlng = new google.maps.LatLng(16.845615,74.601983); // <- Your latitude and longitude
 	var styles = [
 	{
 		"featureType": "water",
