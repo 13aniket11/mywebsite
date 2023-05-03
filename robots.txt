@@ -1,2 +1,7 @@
 User-agent: baidu
 crawl-delay: 1
+
+
+User-agent: *
+
+Allow: /tmp.html
